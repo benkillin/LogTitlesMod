@@ -1,0 +1,16 @@
+[
+{
+  "modid": "LogTitles",
+  "name": "LogTitles",
+  "description": "LogTitles logs titles and sub titles to the client logfile for debuggin pruposes.",
+  "version": "${version}",
+  "mcversion": "${mcversion}",
+  "url": "none",
+  "updateUrl": "",
+  "authors": ["ben"],
+  "credits": "",
+  "logoFile": "",
+  "screenshots": [],
+  "dependencies": []
+}
+]
